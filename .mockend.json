@@ -2,6 +2,8 @@
   "Socio": {
     "nombre": {
       "string": ["Julio","Juan"]
-    }
+    },
+    "apellidoPaterno": {
+      "string": ["Herrera", "Lopez"]
   }
 }
