@@ -2,9 +2,6 @@
   "Socio": {
     "nombre": {
       "string": "Julio"
-    },
-    "apellidoPaterno": {
-      "string": "Herrera"
     }
   }
 }
